@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ac9349b85aff7764d9d4a6fda90f5fc7
+timeCreated: 1499003856
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bobz Type Cyrillic
+  fontNames:
+  - Bobz Type Cyrillic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

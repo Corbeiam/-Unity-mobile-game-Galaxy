@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 12762483a34b83340b4b5d2e06dc9f83
+timeCreated: 1499003856
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Packard Clipper NF
+  fontNames:
+  - Packard Clipper NF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
